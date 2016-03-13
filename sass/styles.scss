@@ -100,11 +100,13 @@ section{
 }
 
 #section-3{
-background-color: $darkermint;
+	background-color: $darkermint;
+	text-align: center;
 	div{
 		@include vertical-align();
 		p{
 			margin: 1em 0;
+			text-align: center;
 		}
 	}
 	img{
