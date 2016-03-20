@@ -88,7 +88,7 @@ section{
 }
 
 #section-1{
-	background-color: $pale;
+	background-color: $darkermint;
 }
 
 #section-2, #section-4{
@@ -120,7 +120,7 @@ section{
 }
 
 #section-4{
-	background-color: $skyblue;
+	background-color: $darkermint;
 	/*background: $seablue no-repeat center/80% url(../img/lines.svg);*/
 	/*background: no-repeat center/80% url("../img/image.png");*/
 /*	background-size: contain ;*/
@@ -149,7 +149,7 @@ section{
 }
 
 #section-6{
-	background-color: $pale;
+	background-color: $darkermint;
 	& .stuff{
 		text-align: center;
 		@include vertical-align();
@@ -161,7 +161,7 @@ section{
 }
 
 #section-5{
-	background-color: $darkerskyblue;
+	background-color: $mint;
 	color: white;
 	.daisey{
 		float: right;
@@ -170,7 +170,7 @@ section{
 }
 
 #section-7{
-	background-color: $paler;
+	background-color: $mint;
 	& .stuff{
 		text-align: center;
 		@include vertical-align();
